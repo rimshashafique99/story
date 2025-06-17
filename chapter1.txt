@@ -1,1 +1,2 @@
 hello this is my first lesson of git
+now i am doing new adventure of leaning branching and merging 
